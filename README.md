@@ -1,4 +1,8 @@
-## Hi there 👋
+### Mi nombre es Luis Enrique Granillo Gamino 😎
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZoaXI5bXhlcWxyYzB6eGR3dDQ3OGd6anJoOGNkNWY2aTZzNWtxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="200"/>
+</div>
 
 <!--
 **LuisGranilloGamino/LuisGranilloGamino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
