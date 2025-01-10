@@ -15,4 +15,3 @@ Soy Luis Enrique, desarrollador Fullstack de 🇲🇽 Mexico, y actualmente vivo
                     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGranilloGamino&layout=donut)](https://github.com/LuisGranilloGamino/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGranilloGamino&exclude_repo=github-readme-stats,LuisGranilloGamino.github.io)
