@@ -1,6 +1,9 @@
-### ¡Ey! Encantado de verte. 😎
+<div id="header" align="center">
+  <img src="/github-header-image.png" width="200"/>
+</div>
+
 ¡Bienvenidos a mi página!
-Soy Luis Enrique, desarrollador Fullstack de 🇲🇽 Mexico, y actualmente vivo en la ciudad de Puebla ⛪.
+Soy Luis Enrique, desarrollador Web de 🇲🇽 Mexico, y actualmente vivo en la ciudad de Puebla ⛪.
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZoaXI5bXhlcWxyYzB6eGR3dDQ3OGd6anJoOGNkNWY2aTZzNWtxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width="200"/>
